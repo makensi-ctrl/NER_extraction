@@ -1,0 +1,51 @@
+A surprising map of the best and worst countries to be born into today
+
+If you came into the world today and could pick your nationality, there are at least 15 better choices than to be born American, according to a study by the Economist Intelligence Unit. The firm looked at 80 countries, scoring them across 11 variables to determine “which country will provide the best opportunities for a healthy, safe and prosperous life in the years ahead.” The results, mapped out above, are both surprising and not.
+
+The study incorporates hard data on facets such as economic opportunity, health standards and political freedoms; subjective “quality of life” surveys; and economic forecasts for 2030, when an infant born today would be entering adulthood. Even gender equality, job security (as measured by unemployment data), violent crime rates and climate are taken into account. 
+
+Here’s some of what I found interesting about the data. There’s surely more here — just as there are surely plenty of holes to be poked in any endeavor to understand life and opportunity in only 11 variables. 
+
+Money can’t buy you happiness, though it will get you 2/3 of the way.
+
+The correlation between wealth, as measured by gross domestic product (GDP) per capita, and happiness is clear, though not nearly as clear as you might expect. The report concludes from the results that “GDP per head alone explains some two thirds of the inter-country variation in life satisfaction, and the estimated relationship is linear.” Only two-thirds!
+
+If you look at the map, you’ll see that the world’s richest countries score highly, but not in the top category. The <COUNTRY>United States</COUNTRY> and <COUNTRY>Germany</COUNTRY>, two of the world’s economic powerhouses, tied for 16th place; <COUNTRY>Japan</COUNTRY> ranks way down at 25th. <COUNTRY>Britain</COUNTRY> and <COUNTRY>France</COUNTRY> score even worse. 
+
+The <REGION>Middle East</REGION> offers some great lessons on money and well-being. The region scores poorly in general, with two exceptions. Democratic and developed <COUNTRY>Israel</COUNTRY>, which is about as rich per person as the <UNIT>European Union</UNIT> average, ranks 20th. But the top-ranking country in the region, at 18th, is the oil-rich <COUNTRY>United Arab Emirates</COUNTRY>. Even more telling, though, is the gulf between the <COUNTRY>U.A.E.</COUNTRY> and <COUNTRY>Saudi Arabia</COUNTRY>, which for all its oil money scores much lower, perhaps due in part to problems such as repressive laws or a lower human development index.
+
+The best countries to be born in are small, peaceful, homogenous, liberal democracies.
+
+Yes, it’s yet another international ranking on individual well-being where the Nordic countries come out on top, alongside <COUNTRY>Ireland</COUNTRY>, <COUNTRY>Australia</COUNTRY>, <COUNTRY>New Zealand</COUNTRY> and <COUNTRY>Canada</COUNTRY>. The top 15 also include <COUNTRY>Austria</COUNTRY> and <COUNTRY>Switzerland</COUNTRY>, which seem to meet similar criteria. The three best places to be born are, in order: <COUNTRY>Switzerland</COUNTRY>, <COUNTRY>Australia</COUNTRY> and <COUNTRY>Norway</COUNTRY>.
+
+Here’s a surprise: the top-ranked countries also include <CONTINENT>Asia</CONTINENT>’s two super-rich city-states, <COUNTRY>Hong Kong</COUNTRY> and <COUNTRY>Singapore</COUNTRY>, as well as <COUNTRY>Taiwan</COUNTRY>. I’ll admit to being surprised by the data’s suggestion that a newborn today is better off being Taiwanese than American or German, particularly because <COUNTRY>Taiwan</COUNTRY>’s aging population and declining birthrate could lead the economy to decline. But <COUNTRY>Taiwan</COUNTRY> does enjoy good political freedoms and improving health and living standards.
+
+There is some interesting variation among the top-ranked countries. <COUNTRY>New Zealand</COUNTRY> ranks seventh overall even though its GDP per capita is low compared to many worse-ranking European countries. <COUNTRY>Singapore</COUNTRY>, though ranked sixth, is not a liberal democracy by any stretch, and life satisfaction in the hyper-competitive city seems relatively low. But it sure is rich.
+
+It’s still best in the <REGION>West</REGION>.
+
+In spite of <CONTINENT>Asia</CONTINENT>’s miraculous growth and of <CONTINENT>Europe</CONTINENT>’s economic decline, factors such as political rights and health standards keep the Western world overwhelmingly desirable. Other than a small number of exceptions, most of which are mentioned above, the top third of the rankings is dominated by <CONTINENT>Europe</CONTINENT> and other Western states.
+
+Even <COUNTRY>Portugal</COUNTRY> and <COUNTRY>Spain</COUNTRY>, for all their very real troubles, score highly. A child born today is likely to have a better life, according to the data, in <COUNTRY>Poland</COUNTRY> or <COUNTRY>Greece</COUNTRY> — yes, <COUNTRY>Greece</COUNTRY> — than in rising economic giants such as <COUNTRY>Brazil</COUNTRY>, <COUNTRY>Turkey</COUNTRY> or <COUNTRY>China</COUNTRY>.
+
+Poverty, violence and/or lack of freedom define the worst countries to be born into.
+
+Countries with violence, poverty or political oppression all rank poorly, but the variance within the bottom fifth or so is fascinating. The worst three countries to be born into, in order from the bottom up, are <COUNTRY>Nigeria</COUNTRY>, <COUNTRY>Kenya</COUNTRY> and <COUNTRY>Ukraine</COUNTRY>. 
+
+Some of the bottom-ranked countries are not actually so poor, such as <COUNTRY>Russia</COUNTRY>, which has bad records on political rights and public health. <COUNTRY>Ecuador</COUNTRY>, backsliding on political rights, is the sole low-scoring country in an otherwise optimistic-looking <REGION>Latin America</REGION>.
+
+Though countries such as <COUNTRY>Indonesia</COUNTRY> and <COUNTRY>Vietnam</COUNTRY> are projected to show astounding economic growth over the next generation, they are poor today. This map is a reminder that being born into a poor society, even one that offers opportunities for new wealth, can still mean life-long challenges.
+
+Inequality plus poverty is much worse than just plain poverty.
+
+Three telling cases here are <COUNTRY>Angola</COUNTRY>, <COUNTRY>Kazakhstan</COUNTRY> and <COUNTRY>Ukraine</COUNTRY>, all of which scored much lower than I’d have expected. Both <COUNTRY>Angola</COUNTRY> and <COUNTRY>Kazakhstan</COUNTRY> are enjoying rapid economic growth from energy and mineral exports, and <COUNTRY>Ukraine</COUNTRY> is a middle-income democracy. But all three have severe and worsening problems with economic inequality, which in turn are fueling corruption and poor governance.
+
+You’re worse off being born in any of these three countries, according to the data, than you are just about anywhere else, including <COUNTRY>Sri Lanka</COUNTRY>, a poor hotbed of ethnic violence, oppressive <COUNTRY>Vietnam</COUNTRY>, or even <COUNTRY>Syria</COUNTRY>. <COUNTRY>Pakistan</COUNTRY> places higher than <COUNTRY>Angola</COUNTRY> or <COUNTRY>Ukraine</COUNTRY> but just below <COUNTRY>Kazakhstan</COUNTRY>.
+
+<COUNTRY>China</COUNTRY> is still not a great place to be born.
+
+The country ranks 49th out of 80, just below <COUNTRY>Latvia</COUNTRY> and <COUNTRY>Hungary</COUNTRY>. That’s an amazing finding, given that <COUNTRY>China</COUNTRY> now has the second-largest number of billionaires in the world after the <COUNTRY>United States</COUNTRY> and might some day have the most. You would think that, with so many Chinese families catapulting to higher status within a society that is itself seeing historic gains, <COUNTRY>China</COUNTRY> would be a great place to be born in 2013.
+
+The statistics are a reminder that, for all of <COUNTRY>China</COUNTRY>’s astounding gains, those gains have not benefited all Chinese equally. About half of the country is still rural and 128 million are still below the poverty line. Even in the big coastal cities, the rising cost of living, stalled political freedoms and worsening income inequality mean that the next 20 or 30 years may not be prosperous for a lot of families.
+
+So, if you’re a Westerner fretting about American decline or European collapse, then if nothing else, know that your children have still lucked into one of the best deals in history: being born in the right place at the right time.
